@@ -7,7 +7,7 @@ It features smooth hover animations and a button to visit your professional prof
 
 ## 🔗 Live Demo
 
-👉 [View the Website](https://yourusername.github.io/creative-card-portfolio)
+👉 [View the Website]([https://yourusername.github.io/creative-card-portfolio/)
 
 > Replace the link above with your GitHub Pages URL once deployed.
 
